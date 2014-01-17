@@ -1,0 +1,5 @@
+D:\Users\Milica\Repos\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
+D:\Users\Milica\Repos\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe
+D:\Users\Milica\Repos\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.pdb
+D:\Users\Milica\Repos\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.exe
+D:\Users\Milica\Repos\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.pdb
